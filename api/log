@@ -1,0 +1,40 @@
+2021.08.08 01:12:57:9970 INFO: ORM connection created
+2021.08.08 01:12:58:3700 ERROR: undefined
+2021.08.08 01:15:38:7220 INFO: ORM connection created
+2021.08.08 01:15:39:0630 ERROR: undefined
+2021.08.08 01:18:59:6610 INFO: ORM connection created
+2021.08.08 01:19:00:1480 INFO: Server has started on port 5010.
+2021.08.08 01:19:19:2920 INFO: ::1 - GET /health - 5.709 ms - 404
+
+2021.08.08 01:19:36:5750 INFO: ::1 - GET /api/health - 0.445 ms - 404
+
+2021.08.08 01:21:12:7290 INFO: ORM connection created
+2021.08.08 01:21:12:7730 INFO: Server has started on port 5010.
+2021.08.08 01:21:21:0880 ERROR: ::1 - GET /api/health - Cannot read property 'healthCheck' of undefined - 500
+2021.08.08 01:21:21:3120 INFO: ::1 - GET /favicon.ico - 3.145 ms - 404
+
+2021.08.08 01:23:09:5660 ERROR: undefined - {"name":"ServiceNotFoundError","normalizedIdentifier":"MaybeConstructable<ConnectionManager>"}
+2021.08.08 01:23:29:2920 ERROR: undefined - {"name":"ServiceNotFoundError","normalizedIdentifier":"MaybeConstructable<ConnectionManager>"}
+2021.08.08 01:26:50:0840 ERROR: undefined
+2021.08.08 01:27:57:1330 ERROR: undefined
+2021.08.08 01:28:30:9900 ERROR: undefined
+2021.08.08 01:30:23:4720 ERROR: undefined
+2021.08.08 01:43:00:1430 ERROR: undefined - {"length":186,"name":"error","severity":"FATAL","code":"28P01","file":"d:\\pginstaller.auto\\postgres.windows-x64\\src\\backend\\libpq\\auth.c","line":"336","routine":"auth_failed"}
+2021.08.08 01:45:53:9910 ERROR: undefined - {"length":186,"name":"error","severity":"FATAL","code":"28P01","file":"d:\\pginstaller.auto\\postgres.windows-x64\\src\\backend\\libpq\\auth.c","line":"336","routine":"auth_failed"}
+2021.08.08 01:46:50:9330 ERROR: undefined - {"length":186,"name":"error","severity":"FATAL","code":"28P01","file":"d:\\pginstaller.auto\\postgres.windows-x64\\src\\backend\\libpq\\auth.c","line":"336","routine":"auth_failed"}
+2021.08.08 01:48:14:1730 INFO: ORM connection created
+2021.08.08 01:48:14:5860 INFO: Server has started on port 5010.
+2021.08.08 01:48:22:4690 ERROR: ::1 - GET /api/health - Cannot read property 'healthCheck' of undefined - 500
+2021.08.08 01:49:20:6630 INFO: ORM connection created
+2021.08.08 01:49:20:6850 INFO: Server has started on port 5010.
+2021.08.08 01:49:50:7490 INFO: ORM connection created
+2021.08.08 01:49:50:7700 INFO: Server has started on port 5010.
+2021.08.08 01:49:59:5930 ERROR: ::1 - GET /api/health - Cannot read property 'healthCheck' of undefined - 500
+2021.08.08 01:50:46:1640 INFO: ORM connection created
+2021.08.08 01:50:46:1910 INFO: Server has started on port 5010.
+2021.08.08 01:50:49:3240 ERROR: ::1 - GET /api/health - Cannot read property 'healthCheck' of undefined - 500
+2021.08.08 01:51:01:3590 INFO: ORM connection created
+2021.08.08 01:51:01:3840 INFO: Server has started on port 5010.
+2021.08.08 01:51:07:0470 ERROR: ::1 - GET /api/health - Cannot read property 'healthCheck' of undefined - 500
+2021.08.08 01:51:46:7130 INFO: ORM connection created
+2021.08.08 01:51:46:7350 INFO: Server has started on port 5010.

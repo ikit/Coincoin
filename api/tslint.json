@@ -1,0 +1,33 @@
+{
+    "defaultSeverity": "error",
+    "extends": ["tslint:recommended"],
+    "jsRules": {
+        "no-unused-expression": true
+    },
+    "rules": {
+        "quotemark": [true, "double", "avoid-escape"],
+        "member-access": [false],
+        "ordered-imports": [false],
+        "max-line-length": [
+            true,
+            {
+                "limit": 120,
+                "ignore-pattern": "^import |^export {(.*?)}"
+            }
+        ],
+        "trailing-comma": [
+            true,
+            {
+                "multiline": "ignore",
+                "esSpecCompliant": true
+            }
+        ],
+        "member-ordering": [false],
+        "arrow-parens": false,
+        "object-literal-sort-keys": false,
+        "no-string-literal": false,
+        "no-var-requires": false,
+        "no-console": false
+    },
+    "rulesDirectory": []
+}

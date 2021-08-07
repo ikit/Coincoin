@@ -10,7 +10,6 @@ import { Container } from 'typeorm-typedi-extensions';
 
 useContainer(Container);
 
-console.log(connectionOptions)
 createConnection(connectionOptions)
     .then(() => {
         logger.info("ORM connection created");
